@@ -11,3 +11,8 @@ conda create -n medchatbot python=3.8 -y
 conda activate medicalchatbot
 ```
 
+```bash 
+# install all the requirement file
+pip install -r requirements.txt
+```
+
